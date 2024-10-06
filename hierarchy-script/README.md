@@ -1,4 +1,4 @@
-# ID Remapper
+# Hierarchy Script
 
 ## Description
 Creating a python script that takes an `input.csv` that has two rows (id, parent)
